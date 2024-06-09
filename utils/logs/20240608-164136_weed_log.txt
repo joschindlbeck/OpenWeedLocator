@@ -1,0 +1,262 @@
+2024-06-08 14:41:48.925922+00:00 nozzle: 0 | time: 1717857708.925795 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.029089+00:00 nozzle: 1 | time: 1717857709.0289817 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.029621+00:00 nozzle: 0 | time: 1717857709.0295804 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.029802+00:00 nozzle: 2 | time: 1717857709.0297697 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.030050+00:00 nozzle: 1 | time: 1717857709.0300257 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.030185+00:00 nozzle: 1 | time: 1717857709.030165 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.030278+00:00 nozzle: 1 | time: 1717857709.03026 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.030380+00:00 nozzle: 3 | time: 1717857709.030348 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.030503+00:00 nozzle: 1 | time: 1717857709.0304842 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.076430+00:00 [INFO] onDur 0.14969792366027831 for nozzle 0 received.
+2024-06-08 14:41:49.131210+00:00 nozzle: 1 | time: 1717857709.1311233 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.131581+00:00 nozzle: 1 | time: 1717857709.1315446 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.131714+00:00 nozzle: 1 | time: 1717857709.1316931 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.131811+00:00 nozzle: 3 | time: 1717857709.1317914 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.131916+00:00 nozzle: 3 | time: 1717857709.1318922 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.132041+00:00 nozzle: 3 | time: 1717857709.1320095 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.132205+00:00 nozzle: 3 | time: 1717857709.132168 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.132368+00:00 nozzle: 3 | time: 1717857709.1323297 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.132488+00:00 nozzle: 1 | time: 1717857709.132464 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.132586+00:00 nozzle: 3 | time: 1717857709.1325665 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.132682+00:00 nozzle: 0 | time: 1717857709.1326594 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:49.179865+00:00 [INFO] onDur 0.1497854232788086 for nozzle 1 received.
+2024-06-08 14:41:49.180775+00:00 [INFO] onDur 0.14992704391479492 for nozzle 3 received.
+2024-06-08 14:41:49.180775+00:00 [INFO] onDur 0.14992704391479492 for nozzle 3 received.
+2024-06-08 14:41:49.181604+00:00 [INFO] onDur 0 for nozzle 1 received.
+2024-06-08 14:41:49.181604+00:00 [INFO] onDur 0 for nozzle 1 received.
+2024-06-08 14:41:49.281293+00:00 [INFO] onDur 0.09452905654907226 for nozzle 1 received.
+2024-06-08 14:41:49.281873+00:00 [INFO] onDur 0 for nozzle 1 received.
+2024-06-08 14:41:49.282060+00:00 [INFO] onDur 0.10003676414489746 for nozzle 3 received.
+2024-06-08 14:41:49.282227+00:00 [INFO] onDur 0 for nozzle 1 received.
+2024-06-08 14:41:49.282388+00:00 [INFO] onDur 0 for nozzle 3 received.
+2024-06-08 14:41:49.282592+00:00 [INFO] onDur 0 for nozzle 3 received.
+2024-06-08 14:41:49.282592+00:00 [INFO] onDur 0 for nozzle 3 received.
+2024-06-08 14:41:49.283552+00:00 [INFO] onDur 0 for nozzle 3 received.
+2024-06-08 14:41:49.283552+00:00 [INFO] onDur 0 for nozzle 3 received.
+2024-06-08 14:41:49.285505+00:00 [INFO] onDur 0 for nozzle 3 received.
+2024-06-08 14:41:56.163278+00:00 nozzle: 1 | time: 1717857716.1631844 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:56.277828+00:00 nozzle: 0 | time: 1717857716.2777247 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:56.315574+00:00 [INFO] onDur 0.14641036987304687 for nozzle 1 received.
+2024-06-08 14:41:56.398722+00:00 nozzle: 0 | time: 1717857716.3986464 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:56.429342+00:00 [INFO] onDur 0.14758386611938476 for nozzle 0 received.
+2024-06-08 14:41:56.503701+00:00 nozzle: 0 | time: 1717857716.503608 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:56.548843+00:00 [INFO] onDur 0.1157745361328125 for nozzle 0 received.
+2024-06-08 14:41:56.614658+00:00 nozzle: 0 | time: 1717857716.614598 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:56.653809+00:00 [INFO] onDur 0.10416212081909179 for nozzle 0 received.
+2024-06-08 14:41:56.717903+00:00 nozzle: 0 | time: 1717857716.717821 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:56.764838+00:00 [INFO] onDur 0.11026277542114257 for nozzle 0 received.
+2024-06-08 14:41:56.828281+00:00 nozzle: 0 | time: 1717857716.8282063 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:56.868945+00:00 [INFO] onDur 0.1015383243560791 for nozzle 0 received.
+2024-06-08 14:41:56.927795+00:00 nozzle: 0 | time: 1717857716.9277205 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:56.978759+00:00 [INFO] onDur 0.10879626274108886 for nozzle 0 received.
+2024-06-08 14:41:57.036984+00:00 nozzle: 0 | time: 1717857717.036906 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:57.078087+00:00 [INFO] onDur 0.09682073593139648 for nozzle 0 received.
+2024-06-08 14:41:57.140862+00:00 nozzle: 0 | time: 1717857717.1407819 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:57.187065+00:00 [INFO] onDur 0.10797920227050781 for nozzle 0 received.
+2024-06-08 14:41:57.249813+00:00 nozzle: 0 | time: 1717857717.249734 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:57.292043+00:00 [INFO] onDur 0.10320010185241699 for nozzle 0 received.
+2024-06-08 14:41:57.356965+00:00 nozzle: 0 | time: 1717857717.3568866 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:57.400405+00:00 [INFO] onDur 0.10685267448425292 for nozzle 0 received.
+2024-06-08 14:41:57.466397+00:00 nozzle: 0 | time: 1717857717.4663196 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:57.507094+00:00 [INFO] onDur 0.10565414428710937 for nozzle 0 received.
+2024-06-08 14:41:57.570940+00:00 nozzle: 0 | time: 1717857717.5708525 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:57.616468+00:00 [INFO] onDur 0.10883989334106445 for nozzle 0 received.
+2024-06-08 14:41:57.672079+00:00 nozzle: 1 | time: 1717857717.6719635 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:57.721057+00:00 [INFO] onDur 0.10397257804870605 for nozzle 0 received.
+2024-06-08 14:41:57.796518+00:00 nozzle: 1 | time: 1717857717.7964401 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:57.823447+00:00 [INFO] onDur 0.14976396560668945 for nozzle 1 received.
+2024-06-08 14:41:57.904566+00:00 nozzle: 1 | time: 1717857717.9044542 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:57.946936+00:00 [INFO] onDur 0.12258305549621581 for nozzle 1 received.
+2024-06-08 14:41:58.009673+00:00 nozzle: 1 | time: 1717857718.009596 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:58.054970+00:00 [INFO] onDur 0.10668697357177734 for nozzle 1 received.
+2024-06-08 14:41:58.111887+00:00 nozzle: 1 | time: 1717857718.1118042 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:58.161623+00:00 [INFO] onDur 0.10339798927307128 for nozzle 1 received.
+2024-06-08 14:41:58.214905+00:00 nozzle: 1 | time: 1717857718.2148254 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:58.262300+00:00 [INFO] onDur 0.09774603843688964 for nozzle 1 received.
+2024-06-08 14:41:58.316428+00:00 nozzle: 1 | time: 1717857718.3163369 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:58.365044+00:00 [INFO] onDur 0.10025062561035156 for nozzle 1 received.
+2024-06-08 14:41:58.422121+00:00 nozzle: 1 | time: 1717857718.4220421 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:58.466532+00:00 [INFO] onDur 0.10063734054565429 for nozzle 1 received.
+2024-06-08 14:41:58.527314+00:00 nozzle: 1 | time: 1717857718.5272288 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:58.574195+00:00 [INFO] onDur 0.10486736297607421 for nozzle 1 received.
+2024-06-08 14:41:58.640469+00:00 nozzle: 1 | time: 1717857718.6403892 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:58.677397+00:00 [INFO] onDur 0.10233416557312011 for nozzle 1 received.
+2024-06-08 14:41:58.740576+00:00 nozzle: 1 | time: 1717857718.7404919 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:58.792558+00:00 [INFO] onDur 0.11242618560791015 for nozzle 1 received.
+2024-06-08 14:41:58.854119+00:00 nozzle: 1 | time: 1717857718.8540385 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:58.890686+00:00 [INFO] onDur 0.09623541831970214 for nozzle 1 received.
+2024-06-08 14:41:58.960966+00:00 nozzle: 1 | time: 1717857718.960871 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:59.004282+00:00 [INFO] onDur 0.11290230751037597 for nozzle 1 received.
+2024-06-08 14:41:59.075092+00:00 nozzle: 0 | time: 1717857719.0749905 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:59.111170+00:00 [INFO] onDur 0.10613670349121093 for nozzle 1 received.
+2024-06-08 14:41:59.193967+00:00 nozzle: 0 | time: 1717857719.1938794 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:59.225761+00:00 [INFO] onDur 0.14979662895202636 for nozzle 0 received.
+2024-06-08 14:41:59.296894+00:00 nozzle: 1 | time: 1717857719.2967951 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:59.344192+00:00 [INFO] onDur 0.1172713279724121 for nozzle 0 received.
+2024-06-08 14:41:59.413267+00:00 nozzle: 1 | time: 1717857719.4131784 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:59.447881+00:00 [INFO] onDur 0.14980020523071289 for nozzle 1 received.
+2024-06-08 14:41:59.516799+00:00 nozzle: 1 | time: 1717857719.5167186 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:59.564701+00:00 [INFO] onDur 0.11459388732910156 for nozzle 1 received.
+2024-06-08 14:41:59.623729+00:00 nozzle: 1 | time: 1717857719.6236427 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:59.668885+00:00 [INFO] onDur 0.10113062858581542 for nozzle 1 received.
+2024-06-08 14:41:59.724331+00:00 nozzle: 1 | time: 1717857719.7242362 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:59.773957+00:00 [INFO] onDur 0.10408320426940917 for nozzle 1 received.
+2024-06-08 14:41:59.831809+00:00 nozzle: 1 | time: 1717857719.831732 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:59.874402+00:00 [INFO] onDur 0.09889283180236816 for nozzle 1 received.
+2024-06-08 14:41:59.926759+00:00 nozzle: 1 | time: 1717857719.9266725 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:41:59.981951+00:00 [INFO] onDur 0.10458316802978515 for nozzle 1 received.
+2024-06-08 14:42:00.034960+00:00 nozzle: 1 | time: 1717857720.0348754 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:00.077577+00:00 [INFO] onDur 0.09401097297668456 for nozzle 1 received.
+2024-06-08 14:42:00.143400+00:00 nozzle: 1 | time: 1717857720.1433191 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:00.185078+00:00 [INFO] onDur 0.1065589427947998 for nozzle 1 received.
+2024-06-08 14:42:00.250411+00:00 nozzle: 1 | time: 1717857720.2503285 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:00.294013+00:00 [INFO] onDur 0.10773744583129882 for nozzle 1 received.
+2024-06-08 14:42:00.356199+00:00 nozzle: 1 | time: 1717857720.356114 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:00.356549+00:00 nozzle: 1 | time: 1717857720.3565166 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:00.400582+00:00 [INFO] onDur 0.10469975471496581 for nozzle 1 received.
+2024-06-08 14:42:00.467479+00:00 nozzle: 1 | time: 1717857720.467395 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:00.507331+00:00 [INFO] onDur 0.10437407493591308 for nozzle 1 received.
+2024-06-08 14:42:00.510843+00:00 [INFO] onDur 0 for nozzle 1 received.
+2024-06-08 14:42:00.575710+00:00 nozzle: 1 | time: 1717857720.5756311 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:00.617681+00:00 [INFO] onDur 0.1061007022857666 for nozzle 1 received.
+2024-06-08 14:42:00.677281+00:00 nozzle: 1 | time: 1717857720.677198 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:00.727316+00:00 [INFO] onDur 0.10678305625915527 for nozzle 1 received.
+2024-06-08 14:42:00.782582+00:00 nozzle: 1 | time: 1717857720.7825003 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:00.827761+00:00 [INFO] onDur 0.09297528266906738 for nozzle 1 received.
+2024-06-08 14:42:00.885587+00:00 nozzle: 1 | time: 1717857720.885455 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:00.933576+00:00 [INFO] onDur 0.1042398452758789 for nozzle 1 received.
+2024-06-08 14:42:00.997208+00:00 nozzle: 1 | time: 1717857720.9971254 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:01.036102+00:00 [INFO] onDur 0.10063352584838867 for nozzle 1 received.
+2024-06-08 14:42:01.103563+00:00 nozzle: 1 | time: 1717857721.1034763 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:01.149900+00:00 [INFO] onDur 0.10993351936340331 for nozzle 1 received.
+2024-06-08 14:42:01.210278+00:00 nozzle: 1 | time: 1717857721.2101123 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:01.254424+00:00 [INFO] onDur 0.10250582695007324 for nozzle 1 received.
+2024-06-08 14:42:01.314068+00:00 nozzle: 1 | time: 1717857721.3139856 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:01.360360+00:00 [INFO] onDur 0.10360946655273437 for nozzle 1 received.
+2024-06-08 14:42:01.417853+00:00 nozzle: 1 | time: 1717857721.417771 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:01.467006+00:00 [INFO] onDur 0.1027895450592041 for nozzle 1 received.
+2024-06-08 14:42:01.530046+00:00 nozzle: 1 | time: 1717857721.5299728 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:01.568022+00:00 [INFO] onDur 0.09954252243041992 for nozzle 1 received.
+2024-06-08 14:42:01.631746+00:00 nozzle: 1 | time: 1717857721.6316755 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:01.681387+00:00 [INFO] onDur 0.11118688583374023 for nozzle 1 received.
+2024-06-08 14:42:01.735761+00:00 nozzle: 1 | time: 1717857721.7356806 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:01.782966+00:00 [INFO] onDur 0.09978690147399902 for nozzle 1 received.
+2024-06-08 14:42:01.838650+00:00 nozzle: 1 | time: 1717857721.8385658 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:01.885912+00:00 [INFO] onDur 0.10134305953979492 for nozzle 1 received.
+2024-06-08 14:42:01.935341+00:00 nozzle: 1 | time: 1717857721.9352577 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:01.988884+00:00 [INFO] onDur 0.10225977897644042 for nozzle 1 received.
+2024-06-08 14:42:02.042364+00:00 nozzle: 1 | time: 1717857722.0422792 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:02.087431+00:00 [INFO] onDur 0.09528794288635253 for nozzle 1 received.
+2024-06-08 14:42:02.148750+00:00 nozzle: 1 | time: 1717857722.1486633 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:02.192633+00:00 [INFO] onDur 0.10410847663879394 for nozzle 1 received.
+2024-06-08 14:42:02.250932+00:00 nozzle: 1 | time: 1717857722.2508345 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:02.298831+00:00 [INFO] onDur 0.10523405075073242 for nozzle 1 received.
+2024-06-08 14:42:02.358338+00:00 nozzle: 1 | time: 1717857722.358283 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:02.401058+00:00 [INFO] onDur 0.1015542984008789 for nozzle 1 received.
+2024-06-08 14:42:02.459628+00:00 nozzle: 1 | time: 1717857722.4595532 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:02.509180+00:00 [INFO] onDur 0.10611095428466796 for nozzle 1 received.
+2024-06-08 14:42:02.566487+00:00 nozzle: 1 | time: 1717857722.5663917 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:02.609761+00:00 [INFO] onDur 0.09651460647583007 for nozzle 1 received.
+2024-06-08 14:42:02.669508+00:00 nozzle: 1 | time: 1717857722.669393 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:02.717158+00:00 [INFO] onDur 0.10621824264526367 for nozzle 1 received.
+2024-06-08 14:42:02.773236+00:00 nozzle: 1 | time: 1717857722.7731543 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:02.819629+00:00 [INFO] onDur 0.10122599601745605 for nozzle 1 received.
+2024-06-08 14:42:02.874803+00:00 nozzle: 1 | time: 1717857722.8747215 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:02.923387+00:00 [INFO] onDur 0.10287251472473144 for nozzle 1 received.
+2024-06-08 14:42:02.982258+00:00 nozzle: 1 | time: 1717857722.9821794 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:03.025852+00:00 [INFO] onDur 0.09721770286560058 for nozzle 1 received.
+2024-06-08 14:42:03.083795+00:00 nozzle: 1 | time: 1717857723.083714 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:03.132551+00:00 [INFO] onDur 0.10580887794494628 for nozzle 1 received.
+2024-06-08 14:42:03.189247+00:00 nozzle: 1 | time: 1717857723.1891694 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:03.233988+00:00 [INFO] onDur 0.10028162002563476 for nozzle 1 received.
+2024-06-08 14:42:03.292343+00:00 nozzle: 1 | time: 1717857723.292259 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:03.339417+00:00 [INFO] onDur 0.10423841476440429 for nozzle 1 received.
+2024-06-08 14:42:03.397655+00:00 nozzle: 1 | time: 1717857723.3975728 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:03.444455+00:00 [INFO] onDur 0.10210242271423339 for nozzle 1 received.
+2024-06-08 14:42:03.501330+00:00 nozzle: 1 | time: 1717857723.5012443 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:03.547796+00:00 [INFO] onDur 0.09981718063354492 for nozzle 1 received.
+2024-06-08 14:42:03.597705+00:00 nozzle: 1 | time: 1717857723.5976195 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:03.653301+00:00 [INFO] onDur 0.10280766487121581 for nozzle 1 received.
+2024-06-08 14:42:03.697406+00:00 nozzle: 1 | time: 1717857723.697318 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:03.747917+00:00 [INFO] onDur 0.09373917579650878 for nozzle 1 received.
+2024-06-08 14:42:03.800919+00:00 nozzle: 1 | time: 1717857723.80083 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:03.847605+00:00 [INFO] onDur 0.09746303558349609 for nozzle 1 received.
+2024-06-08 14:42:03.902373+00:00 nozzle: 1 | time: 1717857723.9022965 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:03.951098+00:00 [INFO] onDur 0.10222854614257812 for nozzle 1 received.
+2024-06-08 14:42:04.007436+00:00 nozzle: 1 | time: 1717857724.0073376 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:04.052634+00:00 [INFO] onDur 0.09828701019287109 for nozzle 1 received.
+2024-06-08 14:42:04.109607+00:00 nozzle: 1 | time: 1717857724.1095428 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:04.157651+00:00 [INFO] onDur 0.10389533042907714 for nozzle 1 received.
+2024-06-08 14:42:04.214895+00:00 nozzle: 1 | time: 1717857724.2148318 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:04.260574+00:00 [INFO] onDur 0.10112109184265136 for nozzle 1 received.
+2024-06-08 14:42:04.320131+00:00 nozzle: 1 | time: 1717857724.3200572 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:04.365121+00:00 [INFO] onDur 0.10273661613464355 for nozzle 1 received.
+2024-06-08 14:42:04.421900+00:00 nozzle: 1 | time: 1717857724.4218135 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:04.474024+00:00 [INFO] onDur 0.10427656173706054 for nozzle 1 received.
+2024-06-08 14:42:04.528628+00:00 nozzle: 1 | time: 1717857724.5285342 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:04.572062+00:00 [INFO] onDur 0.0967170238494873 for nozzle 1 received.
+2024-06-08 14:42:04.624739+00:00 nozzle: 1 | time: 1717857724.6246443 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:04.678812+00:00 [INFO] onDur 0.10590639114379882 for nozzle 1 received.
+2024-06-08 14:42:04.725673+00:00 nozzle: 1 | time: 1717857724.7255895 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:04.774810+00:00 [INFO] onDur 0.09519805908203124 for nozzle 1 received.
+2024-06-08 14:42:04.821266+00:00 nozzle: 1 | time: 1717857724.8211832 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:04.875844+00:00 [INFO] onDur 0.10014595985412597 for nozzle 1 received.
+2024-06-08 14:42:04.928854+00:00 nozzle: 1 | time: 1717857724.9287884 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:04.971472+00:00 [INFO] onDur 0.09412994384765624 for nozzle 1 received.
+2024-06-08 14:42:05.031389+00:00 nozzle: 1 | time: 1717857725.0313165 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:05.079059+00:00 [INFO] onDur 0.10634770393371581 for nozzle 1 received.
+2024-06-08 14:42:05.136699+00:00 nozzle: 1 | time: 1717857725.1366134 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:05.181929+00:00 [INFO] onDur 0.10162105560302734 for nozzle 1 received.
+2024-06-08 14:42:05.241318+00:00 nozzle: 1 | time: 1717857725.2412372 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:05.287678+00:00 [INFO] onDur 0.10273184776306152 for nozzle 1 received.
+2024-06-08 14:42:05.341089+00:00 nozzle: 1 | time: 1717857725.3410244 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:05.391541+00:00 [INFO] onDur 0.10290946960449218 for nozzle 1 received.
+2024-06-08 14:42:05.445414+00:00 nozzle: 1 | time: 1717857725.4453323 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:05.492628+00:00 [INFO] onDur 0.09850134849548339 for nozzle 1 received.
+2024-06-08 14:42:05.552028+00:00 nozzle: 1 | time: 1717857725.5519464 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:05.596451+00:00 [INFO] onDur 0.10195245742797851 for nozzle 1 received.
+2024-06-08 14:42:05.654846+00:00 nozzle: 1 | time: 1717857725.6547327 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:05.702361+00:00 [INFO] onDur 0.10502352714538574 for nozzle 1 received.
+2024-06-08 14:42:05.759370+00:00 nozzle: 1 | time: 1717857725.759289 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:05.810377+00:00 [INFO] onDur 0.10123958587646484 for nozzle 1 received.
+2024-06-08 14:42:05.862111+00:00 nozzle: 1 | time: 1717857725.8620179 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:05.909493+00:00 [INFO] onDur 0.09705700874328613 for nozzle 1 received.
+2024-06-08 14:42:05.959634+00:00 nozzle: 1 | time: 1717857725.9595368 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:06.012318+00:00 [INFO] onDur 0.10208311080932617 for nozzle 1 received.
+2024-06-08 14:42:06.063924+00:00 nozzle: 1 | time: 1717857726.0638387 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:06.109811+00:00 [INFO] onDur 0.09640183448791503 for nozzle 1 received.
+2024-06-08 14:42:06.164478+00:00 nozzle: 1 | time: 1717857726.1643925 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:06.214183+00:00 [INFO] onDur 0.10302987098693847 for nozzle 1 received.
+2024-06-08 14:42:06.268919+00:00 nozzle: 1 | time: 1717857726.2688594 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:06.314596+00:00 [INFO] onDur 0.09904661178588867 for nozzle 1 received.
+2024-06-08 14:42:06.375587+00:00 nozzle: 1 | time: 1717857726.3754945 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:06.419961+00:00 [INFO] onDur 0.10357131958007812 for nozzle 1 received.
+2024-06-08 14:42:06.478006+00:00 nozzle: 1 | time: 1717857726.477927 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:06.529782+00:00 [INFO] onDur 0.10487213134765624 for nozzle 1 received.
+2024-06-08 14:42:06.592768+00:00 nozzle: 1 | time: 1717857726.592687 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:06.628126+00:00 [INFO] onDur 0.097418212890625 for nozzle 1 received.
+2024-06-08 14:42:06.686108+00:00 nozzle: 1 | time: 1717857726.6860492 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:06.742867+00:00 [INFO] onDur 0.1139296531677246 for nozzle 1 received.
+2024-06-08 14:42:06.793511+00:00 nozzle: 1 | time: 1717857726.79339 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:06.836373+00:00 [INFO] onDur 0.09207620620727539 for nozzle 1 received.
+2024-06-08 14:42:06.898964+00:00 nozzle: 1 | time: 1717857726.8988705 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:06.943741+00:00 [INFO] onDur 0.10596933364868164 for nozzle 1 received.
+2024-06-08 14:42:07.000917+00:00 nozzle: 1 | time: 1717857727.0008345 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:07.049115+00:00 [INFO] onDur 0.10378637313842773 for nozzle 1 received.
+2024-06-08 14:42:07.105855+00:00 nozzle: 1 | time: 1717857727.1057699 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:07.151115+00:00 [INFO] onDur 0.1010359764099121 for nozzle 1 received.
+2024-06-08 14:42:07.210149+00:00 nozzle: 1 | time: 1717857727.210062 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:07.255963+00:00 [INFO] onDur 0.10131659507751464 for nozzle 1 received.
+2024-06-08 14:42:07.314408+00:00 nozzle: 1 | time: 1717857727.3143137 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:07.360302+00:00 [INFO] onDur 0.10347881317138671 for nozzle 1 received.
+2024-06-08 14:42:07.417900+00:00 nozzle: 1 | time: 1717857727.4178214 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:07.465080+00:00 [INFO] onDur 0.1027287483215332 for nozzle 1 received.
+2024-06-08 14:42:07.521786+00:00 nozzle: 1 | time: 1717857727.5217009 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:07.568533+00:00 [INFO] onDur 0.10145153999328613 for nozzle 1 received.
+2024-06-08 14:42:07.623041+00:00 nozzle: 1 | time: 1717857727.6229577 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:07.671915+00:00 [INFO] onDur 0.10262956619262695 for nozzle 1 received.
+2024-06-08 14:42:07.727083+00:00 nozzle: 1 | time: 1717857727.727009 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:07.773298+00:00 [INFO] onDur 0.10066261291503906 for nozzle 1 received.
+2024-06-08 14:42:07.825378+00:00 nozzle: 1 | time: 1717857727.825308 | location 0 | delay: 0.0 | duration: 0.15
+2024-06-08 14:42:07.877609+00:00 [INFO] onDur 0.10165586471557617 for nozzle 1 received.
+2024-06-08 14:42:07.977301+00:00 [INFO] onDur 0.09669580459594726 for nozzle 1 received.
