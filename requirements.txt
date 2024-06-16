@@ -7,3 +7,7 @@ pandas
 RPi.GPIO
 tqdm
 blessed
+
+# GPS requirements
+pyserial
+pynmea2
