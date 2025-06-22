@@ -3,9 +3,10 @@ import os
 import numpy as np
 
 from datetime import datetime
-
 from multiprocessing import Process, Queue
 from multiprocessing.queues import Empty
+from utils.log_manager import LogManager
+
 
 class ImageRecorder:
     def __init__(self, save_directory, mode='whole', max_queue=200, new_process_threshold=90, max_processes=4):
@@ -16,6 +17,8 @@ class ImageRecorder:
         self.max_processes = max_processes
         self.processes = []
         self.running = True
+        self.logger = LogManager.get_logger(__name__)
+
         self.start_new_process()
 
     def start_new_process(self):
@@ -23,9 +26,9 @@ class ImageRecorder:
             p = Process(target=self.save_images)
             p.start()
             self.processes.append(p)
-            print(f"[INFO] Started new process, total processes: {len(self.processes)}")
+            self.logger.info(f"[INFO] Started new process, total processes: {len(self.processes)}")
         else:
-            print("[INFO] Maximum number of processes reached.")
+            self.logger.warning("[INFO] Maximum number of processes reached.")
 
     def save_images(self):
         while self.running or not self.queue.empty():
@@ -35,8 +38,11 @@ class ImageRecorder:
             except Empty:
                 if not self.running:
                     break
-
                 continue
+
+            except KeyboardInterrupt:
+                self.logger.info("[INFO] KeyboardInterrupt received in save_images. Exiting.")
+                break
 
             # Process and save images based on mode
             self.process_frame(frame, frame_id, boxes, centres)
@@ -84,13 +90,48 @@ class ImageRecorder:
         if not self.queue.full():
             self.queue.put((frame, frame_id, boxes, centres))
         else:
-            print("[INFO] Queue is full, spinning up new process. Frame skipped.")
+            self.logger.info("[INFO] Queue is full, spinning up new process. Frame skipped.")
 
         if self.queue.qsize() > self.new_process_threshold and len(self.processes) < self.max_processes:
             self.start_new_process()
 
     def stop(self):
+        """Stop image recording processes and clean up resources."""
+        self.running = False
+
+        try:
+            while not self.queue.empty():
+                self.queue.get_nowait()
+        except Exception as e:
+            self.logger.warning(f"Failed to clear queue: {e}")
+
+        self.queue.close()
+        self.queue.join_thread()
+
+        for p in self.processes:
+            try:
+                p.join(timeout=1)
+                if p.is_alive():
+                    p.terminate()
+                    p.join(timeout=0.5)
+            except Exception as e:
+                self.logger.error(f"Failed to stop process: {e}")
+
+        self.processes.clear()
+        self.logger.info("[INFO] ImageRecorder stopped.")
+
+    def terminate(self):
+        """Force terminate all image recording processes."""
         self.running = False
         for p in self.processes:
-            p.terminate()  # Force terminate if still running
-            p.join()
+            if p.is_alive():
+                try:
+                    p.terminate()
+                    p.join(timeout=0.5)
+                except Exception as e:
+                    self.logger.error(f"Failed to terminate process: {e}")
+
+        self.processes.clear()
+        self.queue.close()
+        self.queue.join_thread()
+        self.logger.info("[INFO] All recording processes terminated forcefully.")
